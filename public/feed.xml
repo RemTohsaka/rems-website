@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rem&#39;s Website</title>
+      <link>https://rems.website/blog</link>
+      <description>Rem&#39;s blog created with Next.js and Tailwind.css</description>
+      <language>en-us</language>
+      <managingEditor>remelenatohsaka@gmail.com (Rem Elena)</managingEditor>
+      <webMaster>remelenatohsaka@gmail.com (Rem Elena)</webMaster>
+      <lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rems.website/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rems.website/blog/chatgpt-risky-for-marginalized-groups</guid>
+    <title>Are Marginalized Groups at Risk Using ChatGPT?</title>
+    <link>https://rems.website/blog/chatgpt-risky-for-marginalized-groups</link>
+    <description>How safe is it for a marginalized individual to interact with ChatGPT?</description>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+    <author>remelenatohsaka@gmail.com (Rem Elena)</author>
+    <category>artificial-general-intelligence</category><category>’chatbots’</category><category>’chatgpt’</category><category>‘agi-trust’</category><category>‘agi-safety’</category>
+  </item>
+
+  <item>
+    <guid>https://rems.website/blog/artificial-sentience</guid>
+    <title>Artificial Sentience: Doom or Distraction?</title>
+    <link>https://rems.website/blog/artificial-sentience</link>
+    <description>Should artificial sentience really be what we are worried about?</description>
+    <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
+    <author>remelenatohsaka@gmail.com (Rem Elena)</author>
+    <category>artificial-general-intelligence</category><category>’philosophy’</category><category>‘sentience’</category><category>‘cultural-impact’</category>
+  </item>
+
+  <item>
+    <guid>https://rems.website/blog/agi-safety/agi-abuse-and-exploits-origins</guid>
+    <title>AGI Abuse and Exploits | Part One: Origins</title>
+    <link>https://rems.website/blog/agi-safety/agi-abuse-and-exploits-origins</link>
+    <description>Part one in a series to understand, investigate, and mitigate abuse of artificial general intelligence.</description>
+    <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+    <author>remelenatohsaka@gmail.com (Rem Elena)</author>
+    <category>artificial-general-intelligence</category><category>safety</category><category>exploits</category><category>psychology</category>
+  </item>
+
+    </channel>
+  </rss>
