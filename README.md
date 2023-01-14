@@ -8,6 +8,7 @@ This repository contains all the code and files found at https://rems.website.
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com)
 
 ## Local Development
 
