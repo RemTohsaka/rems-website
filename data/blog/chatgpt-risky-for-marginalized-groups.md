@@ -1,7 +1,7 @@
 ---
 title: 'Are Marginalized Groups at Risk Using ChatGPT?'
 date: '2023-01-01'
-tags: ['artificial-general-intelligence',’chatbots’,’chatgpt’, ‘agi-trust’, ‘agi-safety’]
+tags: ['artificial-general-intelligence','chatbots','chatgpt', 'agi-trust', 'agi-safety']
 readTime: 10 minutes
 imgSrc: '/static/images/blog/random_noise.png'
 draft: false
