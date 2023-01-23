@@ -3,13 +3,15 @@ import Plausible from './Plausible'
 import SimpleAnalytics from './SimpleAnalytics'
 import Umami from './Umami'
 import Posthog from './Posthog'
+import { Analytics } from '@vercel/analytics/react'
 import siteMetadata from '@/data/siteMetadata'
 
 const isProduction = process.env.NODE_ENV === 'production'
 
-const Analytics = () => {
+const AnalyticsWrapper = () => {
   return (
     <>
+      {isProduction && siteMetadata.analytics.vercelAnalytics && <Analytics />}
       {isProduction && siteMetadata.analytics.plausibleDataDomain && <Plausible />}
       {isProduction && siteMetadata.analytics.simpleAnalytics && <SimpleAnalytics />}
       {isProduction && siteMetadata.analytics.umamiWebsiteId && <Umami />}
@@ -19,4 +21,4 @@ const Analytics = () => {
   )
 }
 
-export default Analytics
+export default AnalyticsWrapper
